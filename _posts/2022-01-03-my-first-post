@@ -1,0 +1,12 @@
+---
+layout: post
+title: how i have bulit my wed site
+subtitle: Quick summary
+categories: web site 
+tags: [Github, Website]
+---
+1. I created a GitHub account
+2. I clone reponsitory from datamaunz/jekyll-blog-template
+3. I named the cloned reponsitory Chimaz226.github.io
+4. I edited the files described in README.nd
+5. Now am writing my frist post by following the adivce that i got from the README file
